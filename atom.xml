@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Harry's Tech Blog]]></title>
-  <link href="http://34010493.github.com/blog/atom.xml" rel="self"/>
-  <link href="http://34010493.github.com/blog/"/>
-  <updated>2013-03-18T16:51:44+08:00</updated>
-  <id>http://34010493.github.com/blog/</id>
+  <link href="http://34010493.github.com/atom.xml" rel="self"/>
+  <link href="http://34010493.github.com/"/>
+  <updated>2013-03-18T16:59:36+08:00</updated>
+  <id>http://34010493.github.com/</id>
   <author>
     <name><![CDATA[Harry Wang]]></name>
     

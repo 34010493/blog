@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://34010493.github.com/blog/sitemap.xml 
+Sitemap: http://34010493.github.com/sitemap.xml 
